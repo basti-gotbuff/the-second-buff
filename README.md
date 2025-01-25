@@ -1,4 +1,3 @@
-# the-second-buff
 ## SUM-AG NATIONAL HIGH SCHOOL DIGITAL LIBRARY
 from flask import Flask, render_template, request, redirect, url_for
 
